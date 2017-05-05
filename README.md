@@ -27,3 +27,8 @@ huber
 广义延拓逼近法
 
 Doxygen
+
+PCA,Boosting,SVM,NeuralNet,regression
+特征提取:Haar,Gabor,LBP,SIFT,HOG
+
+Cache
