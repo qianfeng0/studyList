@@ -32,3 +32,5 @@ PCA,Boosting,SVM,NeuralNet,regression
 特征提取:Haar,Gabor,LBP,SIFT,HOG
 
 Cache
+
+BF set 信息去重
